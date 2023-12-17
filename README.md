@@ -1,6 +1,6 @@
 
-<p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 14th Feb, 2021 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
+<p align="center"><a href="https://manjiri-pratik.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://manjiri-pratik.netlify.app/assets/Manjiri&Pratik.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 25th Dec, 2023 <br> <a href="https://manjiri-pratik.netlify.app/">Website</a></h1>
 
 
 
@@ -8,34 +8,34 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://saharshisha.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
+  <a href="[https://manjiri-pratik.netlify.app/]"><img src="./assets/mp3/Manjiri&Pratik.pdf" /></a>
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **14th February at [Mishtten Resort](https://g.page/Mishttenresort),  Jhalawar, Rajasthan from 3:00 PM** onwards.
+With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **25th December at [J.N.P.T MULTI PURPOSE HALL](https://maps.app.goo.gl/7tKL5aoJtt9HPoB1A),  J.N.P.T MULTI PURPOSE HALL ,JNPT TOWNSHIP, SECTOR 2, NAVA SHEVA URAN, NAVI MUMBAI from 12:38 PM** onwards.
 
-- [Download](https://saharshisha.netlify.app/assets/SI.pdf) the Invitation card
+- [Download](https://manjiri-pratik.netlify.app/assets/Manjiri&Pratik.pdf) the Invitation card
 
-- Find [venue](https://g.page/Mishttenresort) on Google map
+- Find [venue](https://maps.app.goo.gl/7tKL5aoJtt9HPoB1A) on Google map
 
-- Visit the [website](https://saharshisha.netlify.app) for more details
+- Visit the [website](https://manjiri-pratik.netlify.app/) for more details
 
 
 ```js
 
-const newCouple = 'Saharsh & Isha';
+const newCouple = 'Pratik & Manjiri';
 
-// Feb 14, 2021
-const weddingDate = new Date(2021, 02, 14);
+// Dec 25, 2023
+const weddingDate = new Date(2023, 12, 25);
 
-// Wedding venue: https://g.page/Mishttenresort
-const weddingVenue = new Location('Mishtten Resort, Rajasthan');
+// Wedding venue: https://maps.app.goo.gl/7tKL5aoJtt9HPoB1A
+const weddingVenue = new Location('J.N.P.T MULTI PURPOSE HALL, Navi Mumbai');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://saharshisha.netlify.app/')
+        window.open('https://manjiri-pratik.netlify.app/')
     );
 })();
 
@@ -47,10 +47,4 @@ const weddingVenue = new Location('Mishtten Resort, Rajasthan');
 ### Do not forget to leave a star! :hugs:
 
 <br><sup><i>With warm regards,<br>
-**Sarthak Jain**<i></sup><br>
-
-## Credits for the Project 
-
-* Vinit Shahdeo - GitHub - https://github.com/vinitshahdeo  Project - https://github.com/vinitshahdeo/Wedding-Invitation
-
-* Sanket Singh - GitHub - https://github.com/singhsanket143 LinkedIn - https://www.linkedin.com/in/singhsanket143/ 
+**SAMYAK NAGDIVE**<i></sup><br>
